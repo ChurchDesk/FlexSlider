@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ChurchDesk/flexslider.png?label=ready&title=Ready)](https://waffle.io/ChurchDesk/flexslider)
 SMALL TEST!
 
 [![Gitter chat](https://badges.gitter.im/woothemes/FlexSlider.png)](https://gitter.im/woothemes/FlexSlider)
