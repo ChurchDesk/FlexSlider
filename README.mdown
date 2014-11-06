@@ -1,4 +1,4 @@
-SMALL TEST!
+SMALL TEST! 2! 3!
 
 [![Gitter chat](https://badges.gitter.im/woothemes/FlexSlider.png)](https://gitter.im/woothemes/FlexSlider)
 
