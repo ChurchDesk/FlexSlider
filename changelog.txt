@@ -5,3 +5,6 @@ FLEXSLIDER CHANGELOG
 
 2014.05.7 - Version 2.2.2
  * Added flexslider.less
+ 
+ 
+ asd
